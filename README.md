@@ -1,4 +1,4 @@
-# SoftwareTestingProject6X
+# SoftwareTestingProject
 
 Project #1 -  Testcase and Test Plan for App.vwo.com
 
@@ -7,13 +7,6 @@ Project #1 -  Testcase and Test Plan for App.vwo.com
 3. Bug Template
 4. Test Stratergy
 5. Test Closure. 
-
-https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR?usp=sharing
-
-https://sdet.live/project2
-
-![Screenshot 2024-04-04 at 8 18 55 AM](https://github.com/PramodDutta/SoftwareTestingProject6X/assets/1409610/8f9999e6-179e-47ff-97fc-cee0e84cc501)
-
 
 ## Project List
 
